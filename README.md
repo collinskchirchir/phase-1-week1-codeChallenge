@@ -13,14 +13,14 @@ Given the basic salary and benefits of an employee, write a program that would c
 The Solution works by accepting input through the Prompt and dispaying results through Alert 
 
 ## Project Setup
-~ Have code editor installed Vs Code
-~ Link .js files appropriately in index.html file to view respective solutions to challenges
+* Have code editor installed Vs Code
+* Link .js files appropriately in index.html file to view respective solutions to challenges
 
 # gitAuthor
-~ By Collins K. Chirchir
+* By Collins K. Chirchir
 ## Contact Information
-~ Slack Profile - Collins Chirchir
-~ Email - collinskchirchir@gmail.com
+* Slack Profile - Collins Chirchir
+* Email - collinskchirchir@gmail.com
 
 # License
 MIT License
